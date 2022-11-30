@@ -66,7 +66,7 @@ The following are the API level changes in Azure Cosmos DB Java SDK 4.x.x compar
 
   * **Java SDK 4.0** : All the classes belong to the Sync API unless the class name is appended with `Async` after `Cosmos`.
 
-  * **Java SDK 3.x.x**: All the classes belong to the Async API unless the class name is appended with `Async` after `Cosmos`.
+  * **Java SDK 3.x.x**: All the classes belong to the Async API unless the class name is appended with `Sync` after `Cosmos`.
 
   * **Async Java SDK 2.x.x**: The class names are similar to Sync Java SDK 2.x.x, however the name starts with *Async*.
 
